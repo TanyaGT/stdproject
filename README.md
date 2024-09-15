@@ -1,0 +1,2 @@
+# stdproject
+Test study project
